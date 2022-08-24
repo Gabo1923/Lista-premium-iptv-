@@ -1,0 +1,28 @@
+#EXTM3U
+#EXTINF:-1,Canal Estrellas
+http://190.61.41.182:8000/play/a362/index.m3u8
+#EXTINF:-1,Canal Institucional
+http://190.61.41.182:8000/play/a1ue/index.m3u8
+#EXTINF:-1,Caracol HD
+http://190.61.41.182:8000/play/a35m/index.m3u8
+#EXTINF:-1,RCN HD
+http://190.61.41.182:8000/play/a36r/index.m3u8
+#EXTINF:-1,TRO
+http://190.61.41.182:8000/play/a1un/index.m3u8
+#EXTINF:-1,Teleantioquia
+http://190.61.41.182:8000/play/a36c/index.m3u8
+#EXTINF:-1,Telecafe
+http://190.61.41.182:8000/play/a36o/index.m3u8
+#EXTINF:-1,Telecaribe
+http://190.61.41.182:8000/play/a36m/index.m3u8
+#EXTINF:-1,Teleislas
+http://190.61.41.182:8000/play/a1uo/index.m3u8
+#EXTINF:-1,Telenovelas
+http://190.61.41.182:8000/play/a37z/index.m3u8
+#EXTINF:-1,Telepacifico
+http://190.61.41.182:8000/play/a36e/index.m3u8
+#EXTINF:-1,Trece
+http://190.61.41.182:8000/play/a36p/index.m3u8
+#EXTINF:-1,Win
+http://190.61.41.182:8000/play/a36d/index.m3u8
+
